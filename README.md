@@ -1,3 +1,1 @@
-# bookbot
-
-Python script that reads data
+# small text stat script
