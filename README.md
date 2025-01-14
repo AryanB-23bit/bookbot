@@ -1,3 +1,3 @@
 # bookbot
 
-my first project
+Python script that reads data, using it for books
