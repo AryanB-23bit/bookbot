@@ -27,7 +27,7 @@ def gen_text_report(path, count: int, char_count_dict: dict[str, int]):
 
 
 if __name__ == "__main__":
-    book_path: Path = Path("books/frankenstein.txt")
+    book_path: Path = Path("books/.txt")
     book_text = open_and_read(book_path)
     book_word_count = word_count(book_text)
     book_char_count = character_count(book_text)
